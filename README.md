@@ -1,7 +1,7 @@
 # TimbreTron
 The repo accompanying the paper: [TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer](https://arxiv.org/abs/1811.09620).  
-**Authors**: [Sicong Huang](https://www.cs.toronto.edu/~huang/), Qiyang Li, Cem Anil, Xuchan Bao, [Sageev Oore](http://www.cs.smu.ca/~sageev/), [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) 
-
+**Authors**: [Sicong Huang](https://www.cs.toronto.edu/~huang/), Qiyang Li, Cem Anil, Xuchan Bao, [Sageev Oore](http://www.cs.smu.ca/~sageev/), [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/). <br />
+**Project Page**: https://www.cs.toronto.edu/~huang/TimbreTron/index.html
 ## Citing this work
 ```
 @article{huang2018timbretron,
